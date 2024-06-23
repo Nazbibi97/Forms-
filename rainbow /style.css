@@ -1,27 +1,5 @@
-body{background-color: darkgray} h1 {background-color: gold;
- background-color: hsla(66, 46%, 61%, 1) }
- h1{padding: 5px;
-   margin: 0px;
- }
- h4{
-
- padding: 5px;
-
- margin: 0px;}
- h4.a {background-color: hsla(291, 87%, 32%, 1)}
- h4.b{background-color: hsla(291, 91%, 40%, 1)}
- h4.c{background-color: hsla(291, 77%, 48%, 1)}
-  h4.d{background-color: hsla(291, 59%, 52%, 1)}
-  h4.e{background-color: hsla(291, 77%, 48%, 1)}
-  h4.f{background-color: hsla(42, 71%, 62%, 1)}
-     h4.g{background-color: hsla(42, 50%, 60%, 1)}
-   h4.h{background-color: hsla(45, 64%, 59%, 1)}
-   h4.i{background-color: hsla(57, 41%, 66%, 1)}
-   h4.j{background-color: hsla(45, 64%, 69%, 1)}
-   h4.k{background-color: hsla(60, 42%, 59%, 1)}
-   h4.l{background-color: hsla(304, 63%, 68%, 1)}
-   h4.m{background-color: hsla(304, 62%, 61%, 1) }
-h4.n{background-color: hsla(304, 77%, 62%, 1)}
-h4.o{background-color: hsla(304, 71%, 53%, 1)}
-h4.p{background-color: hsla(304, 67%, 42%, 1)}
-h4.q{background-color: hsla(304, 86%, 28%, 1)}
+ div.1
+  {background-color: #C8C8C8;
+  
+}
+  
