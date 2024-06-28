@@ -1,0 +1,31 @@
+/*.Que{background-color: #9FB0A8;
+  width: 300px; height:300px;
+} 
+
+b{background-color: #20C476;
+  width: 500px; height:300px;
+}*/
+/*.text{background-color: hsla(151, 72%, 45%, 1);
+  width: 200px; height: 500px; border-style: dashed; border-width: 5px; border-color: hsla(52, 72%, 45%, 1);
+  padding: 16px 17px 18px 19px; margin: 6px;
+  border-radius: 15px;
+ 
+}
+p{background-color: grey;
+  width: 79%; height: 9%; border-radius: 27px;
+}*/
+body{ background-color: #A1A3B8;
+  color: #000000;
+  padding: 20px;
+  font-family: system-ui;
+}
+h1{  background-color:#A9B6AB;
+  width: 400px; height:100px; font-style: italic;
+  font-size: 49px
+}
+span{}
+.one{background-color: #C51A34;}
+.two{background-color: #AD5AB9}
+.three{background-color:#BD5ACB;}
+.four{background-color:#CD66DC;}
+.five{background-color:#CD88D7;}

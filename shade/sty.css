@@ -1,13 +1,16 @@
- background-color: hsla(66, 46%, 61%, 1) }
+ body {background-color: silver;
+ color: white;
+ padding: 20px;
+ font-family: Arial, Verdana, sans-serif;}
  h1{padding: 5px;
-   margin: 0px;
-background-color: #7178C9; }
+   margin: 0px;}
+ h1{background-color: #7178C9; }
  h4{
 
  padding: 5px;
 
  margin: 0px;}
- h4.a {background-color: hsla(291, 87%, 32%, 1)}
+ h4.a {background-color: hsla(291, 95%, 20%, 1)}
  h4.b{background-color: hsla(291, 91%, 40%, 1)}
  h4.c{background-color: hsla(291, 77%, 48%, 1)}
   h4.d{background-color: hsla(291, 59%, 52%, 1)}
